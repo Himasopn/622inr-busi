@@ -1,4 +1,7 @@
 {
   "name": "BUSI-62",
   "description": "JUST DEPLOY LOL",
-  
+  }
+  }, 
+  "addons": [{ "plan": "heroku-postgresql:basic" }]
+}
